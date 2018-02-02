@@ -1,0 +1,1 @@
+/home/steinn/mini_project/target/debug/mini_project: /home/steinn/mini_project/src/build_spanners.rs /home/steinn/mini_project/src/graph_parser.rs /home/steinn/mini_project/src/main.rs /home/steinn/mini_project/src/impl_graph.rs

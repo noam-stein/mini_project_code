@@ -1,0 +1,9 @@
+[package]
+name = "algo_run"
+version = "0.1.0"
+authors = ["steinn"]
+
+[dependencies]
+petgraph = "0.4.10"
+
+
